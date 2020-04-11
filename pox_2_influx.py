@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Import serial package to open and read from masimo rad-8 serial port
 import serial
 from datetime import datetime
