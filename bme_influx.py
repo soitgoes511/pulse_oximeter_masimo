@@ -24,7 +24,7 @@ json_body = [
             "tags": {
                 "id": data.id
                 },
-            "dttm": data.timestamp,
+            "time": data.timestamp,
             "fields": {
                 "temperature": temp,
                 "pressure": data.pressure,
