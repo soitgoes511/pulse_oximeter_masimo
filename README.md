@@ -1,8 +1,8 @@
 # Masimo Rad-8 Pulse Oximeter Data to InfluxDB
 
-A simple Python3 script to read serial data from a Masimo Rad-8 Pulse Oximeter. Samples are taken
-at a frequency of 1 sample/second, put in JSON format and sent to a local influxDB instance. This
-data is visualized using Grafana.
+A simple **Python3** script to read serial data from a **Masimo Rad-8 Pulse Oximeter**. Samples are taken
+at a frequency of 1 sample/second, put in JSON format and sent to a local **InfluxDB** instance. This
+data is visualized using **Grafana**.
 
 ## Purpose
 
