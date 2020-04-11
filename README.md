@@ -10,3 +10,7 @@ My daughter has a trach and is ventilator dependent. My wife and I need to watch
 and were only able to do so if we were sitting in front of the pulse oximeter. Now, using influxDB 
 and Grafana running on a local server, we can see her specific oxygen and heartrate from anywhere in
 our home.
+
+## Grafana Dashboard for Pulse Oximeter Data w/ Inside Weather
+
+![alt text](pulse_grafana_screenshot1.png)
