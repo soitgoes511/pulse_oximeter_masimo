@@ -11,7 +11,7 @@ and were only able to do so if we were sitting in front of the pulse oximeter. N
 and Grafana running on a local server, we can see her specific oxygen and heartrate from anywhere in
 our home.
 
-### Long-term Goal
+## Long-term Goal
 
 My daughter has intermittent desats which I do not fully understand. My hypothesis is that since
 she also has a **VP Shunt** that it is related to the barometric pressure. This is why I am also
